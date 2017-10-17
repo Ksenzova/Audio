@@ -124,5 +124,6 @@ namespace AudioPlayer
         {
             format = Format.wav;
         }
-    }
+
+	}
 }
