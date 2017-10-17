@@ -1,0 +1,17 @@
+F:\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.exe.config
+F:\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.exe
+F:\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.pdb
+F:\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csprojResolveAssemblyReference.cache
+F:\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.Properties.Resources.resources
+F:\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.Cache
+F:\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.exe
+F:\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.pdb
+F:\AudioPlayer\AudioPlayer\bin\Debug\NAudio.dll
+F:\AudioPlayer\AudioPlayer\bin\Debug\NAudio.xml
+F:\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.home.resources
+F:\AudioPlayer\AudioPlayer\bin\Debug\NAudio.Flac.dll
+F:\AudioPlayer\AudioPlayer\bin\Debug\NAudio.Vorbis.dll
+F:\AudioPlayer\AudioPlayer\bin\Debug\NAudio.WindowsMediaFormat.dll
+F:\AudioPlayer\AudioPlayer\bin\Debug\NVorbis.dll
+F:\AudioPlayer\AudioPlayer\bin\Debug\NAudio.Vorbis.xml
+F:\AudioPlayer\AudioPlayer\bin\Debug\NVorbis.xml
